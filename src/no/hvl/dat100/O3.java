@@ -20,8 +20,7 @@ public class O3
 		else
 		{
 			showMessageDialog(null, "Tast heltall større enn null!");
-		}
-		
+		}		
 		
 	}
 
